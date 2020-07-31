@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**sauderrs/sauderrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile 🙃
 
-Here are some ideas to get you started:
+#### 👩🏼‍💻 Development
+I am a full-stack engineer working on a little bit of this and that at [Ramsey Solutions](https://www.ramseyinhouse.com/).
+Right now that looks like React apps, Ruby on Rails apps and REST APIs, and Magnolia CMS light module development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌺 Personal
+When I'm not developing... I really enjoy a good movie 📽, going for a hike 🏞, having a board game night w/ friends ♟.
+
+#### 💬 Contact
+You can find me on [LinkedIn](https://www.linkedin.com/public-profile/in/stephanie-sauder-642a2555)
+Happy to chat anytime!
+
