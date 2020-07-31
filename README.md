@@ -21,3 +21,7 @@ I really enjoy a good movie 📽, going for a hike 🏞, having a board game nig
 #### 💬 Contact
 You can find me on [LinkedIn](https://www.linkedin.com/public-profile/in/stephanie-sauder-642a2555).  
 Happy to chat anytime!
+
+---
+
+![LinkedIn Banner - RS 2](https://user-images.githubusercontent.com/39923091/89078335-d7834880-d349-11ea-9393-18600837a596.jpg)
